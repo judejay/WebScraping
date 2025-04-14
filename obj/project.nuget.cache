@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "aqbu/BScang=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\acer\\source\\repos\\WebScraping\\WebScraping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\htmlagilitypack\\1.12.0\\htmlagilitypack.1.12.0.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\htmlagilitypack.cssselectors\\1.0.2\\htmlagilitypack.cssselectors.1.0.2.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\selenium.webdriver\\4.31.0\\selenium.webdriver.4.31.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'HtmlAgilityPack.CssSelectors 1.0.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net9.0'. This package may not be fully compatible with your project.",
+      "libraryId": "HtmlAgilityPack.CssSelectors",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}
